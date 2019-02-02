@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealRuins.RealRuins_ModSettings">
+		<diskCacheLimit>256</diskCacheLimit>
+		<defaultScatterOptions>
+			<densityMultiplier>2.11702132</densityMultiplier>
+			<deteriorationMultiplier>0</deteriorationMultiplier>
+			<scavengingMultiplier>1</scavengingMultiplier>
+			<enableProximity>False</enableProximity>
+			<decorationChance>9.99999975E-05</decorationChance>
+			<trapChance>0.00100000005</trapChance>
+			<hostileChance>0.100000001</hostileChance>
+		</defaultScatterOptions>
+	</ModSettings>
+</SettingsBlock>
