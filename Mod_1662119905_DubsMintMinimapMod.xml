@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMinimap.Settings">
+		<MinimapOpen>True</MinimapOpen>
+		<ShowCorpses>True</ShowCorpses>
+		<GroundCol>RGBA(0.027, 0.031, 0.051, 1.000)</GroundCol>
+		<WaterCol>RGBA(0.082, 0.247, 0.286, 1.000)</WaterCol>
+		<multi21>200</multi21>
+		<MapRes>1</MapRes>
+		<BtnPos>200</BtnPos>
+		<LastVersion>34681</LastVersion>
+	</ModSettings>
+</SettingsBlock>
